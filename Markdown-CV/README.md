@@ -20,7 +20,8 @@
 
 | Year | College |
 | ------- | --------|
-| 2018 - Present | Lebanese University – Beirut, Hadat - Faculty of Sciences, Statistics |
+| 2021 - 2022| Lebanese University – Beirut, Hadat - Faculty of Sciences, Master's Statistics |
+| 2018 - 2021| Lebanese University – Beirut, Hadat - Faculty of Sciences, Bachelor in Statistics |
 | 2017 - 2018 | Lebanese University – Beirut, Hadat - Faculty of Fine Arts, Architecture Major |
 | 2016-2017 | RHOSS - Aramoun -General Science |
 
@@ -42,6 +43,7 @@
 * SAS programing
 * Microsoft Office
 * Matlab
+* HTML
 
 
 <br><hr>
